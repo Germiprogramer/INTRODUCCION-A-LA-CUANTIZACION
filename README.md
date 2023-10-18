@@ -193,7 +193,7 @@ https://colab.research.google.com/drive/1_agGtx8p9-hjg1vi3qlO10ZDHBhhTu2c
 
 
 
-## Análisis y Conclusiones: Compare el rendimiento y el tamaño del modelo original con sus versiones cuantizadas. Reflexione sobre los trade-offs entre tamaño, rendimiento y precisión en modelos de lenguaje. 
+## 5-Análisis y Conclusiones: Compare el rendimiento y el tamaño del modelo original con sus versiones cuantizadas. Reflexione sobre los trade-offs entre tamaño, rendimiento y precisión en modelos de lenguaje. 
 
 Comparación:
 
