@@ -73,3 +73,8 @@ Decodificación y Visualización: El texto generado se decodifica desde la repre
 
 ## Link del código:
 https://colab.research.google.com/drive/19xZHwaZr86gOshX2SxreeqZTm_kjdv2D#scrollTo=0ct5SK8s417K
+
+# 
+
+## 3-Representación de Coma Flotante
+
