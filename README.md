@@ -81,7 +81,7 @@ Representación en coma flotante.pdf (Está en los archivos del repositorio)
 
 
 ## 4- Implementación PTQ: Aplique la técnica PTQ al modelo GPT-2. Evalúe el rendimiento del modelo después de la cuantización
-El código para llevralo a cabo es el siguiente:
+El código para llevralo a cabo es el siguiente (esta en uno de los archivos del repositorio llamado "Untitled3.ipynb"):
 ```
 !pip install torch
 !pip install transformers
@@ -184,3 +184,6 @@ Pérdida en el conjunto de prueba: 11.3333
 
 8-Evaluamos el modelo cuantizado utilizando nuestros datos de prueba ficticios y mostramos la pérdida en la salida.
 
+
+## El link del código de google colab es el siguiente:
+https://colab.research.google.com/drive/1_agGtx8p9-hjg1vi3qlO10ZDHBhhTu2c
