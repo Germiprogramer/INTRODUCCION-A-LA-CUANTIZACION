@@ -1,5 +1,10 @@
 # INTRODUCCION-A-LA-CUANTIZACION
 
+El link al repositorio es el siguiente: https://github.com/Germiprogramer/INTRODUCCION-A-LA-CUANTIZACION.git
+# 
+
+
+
 ## 1- Investigación previa: 
 
 Introducción a la cuantización ( está en los archivos pdf del repositorio) 
