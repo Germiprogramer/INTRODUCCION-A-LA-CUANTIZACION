@@ -187,3 +187,25 @@ Pérdida en el conjunto de prueba: 11.3333
 
 ## El link del código de google colab es el siguiente:
 https://colab.research.google.com/drive/1_agGtx8p9-hjg1vi3qlO10ZDHBhhTu2c
+
+
+
+
+
+
+## Análisis y Conclusiones: Compare el rendimiento y el tamaño del modelo original con sus versiones cuantizadas. Reflexione sobre los trade-offs entre tamaño, rendimiento y precisión en modelos de lenguaje. 
+
+Comparación:
+
+Rendimiento: La primera parte del código utiliza el modelo GPT-2 sin cuantización, lo que significa que no se aplica cuantización a los parámetros del modelo. En contraste, la segunda parte del código aplica cuantización dinámica a las capas lineales y de normalización del modelo. La cuantización puede reducir el rendimiento en términos de calidad del texto generado, ya que los parámetros se almacenan en una representación de menor precisión.
+
+Tamaño del modelo: En términos de tamaño del modelo, la versión cuantizada generalmente tiene un tamaño más pequeño que el modelo original, ya que los valores de los parámetros se almacenan con una menor precisión. Esto puede ser beneficioso en términos de almacenamiento y uso de recursos, especialmente en entornos con restricciones de memoria.
+
+Precisión del modelo: La cuantización puede llevar a una pérdida de precisión, especialmente en modelos de lenguaje como GPT-2, donde la generación de texto requiere detalles finos y una alta precisión en las predicciones. La cuantización puede introducir artefactos en el texto generado y afectar la calidad de las respuestas.
+
+En resumen, la cuantización es una técnica que reduce el tamaño del modelo y puede ser útil en entornos con recursos limitados, pero a menudo conlleva una pérdida de precisión y calidad en la generación de texto. La elección entre el modelo original y el modelo cuantizado depende de los trade-offs entre tamaño, rendimiento y precisión que sean aceptables para una aplicación específica.
+
+
+
+
+
