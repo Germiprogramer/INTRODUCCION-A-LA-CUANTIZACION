@@ -12,7 +12,7 @@ Introducción a la cuantización ( está en los archivos pdf del repositorio)
 ## 2-Configuración inicial:
 Obtenga un modelo preentrenado GPT-2.
 Establezca una métrica base del rendimiento del modelo sin cuantizar.
-El código con su respuesta es el siguiente ( dejaré el archivo arriba, y el link del google colab en el que he realizado el código, en el cual para ejecutarlo, no hay que olvidarse de escribir " !pip install transformers" ) : 
+El código con su respuesta es el siguiente ( dejaré el archivo arriba (Untitled1 (1).ipynb), y el link del google colab en el que he realizado el código, en el cual para ejecutarlo, no hay que olvidarse de escribir " !pip install transformers" ) : 
 ```
 import torch
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
