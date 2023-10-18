@@ -77,4 +77,4 @@ https://colab.research.google.com/drive/19xZHwaZr86gOshX2SxreeqZTm_kjdv2D#scroll
 # 
 
 ## 3-Representación de Coma Flotante
-
+Representación en coma flotante.pdf (Está en los archivos del repositorio)
